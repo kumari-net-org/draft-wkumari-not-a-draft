@@ -4,7 +4,7 @@ category: std
 abbrev: "Anyone can write an ID"
 
 docname: draft-wkumari-not-a-draft-26
-submissiontype: IETF
+stream: IETF
 number:
 date:
 consensus: true
